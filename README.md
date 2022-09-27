@@ -32,6 +32,7 @@ Contains all scripts used for data filtering and analysis. The scripts should be
 - **data_analysis_script.R**: Performs modeling and makes tables and figures with products created in three aforementioned R scripts.
 
 **Folder "model_outputs"**: Tables from models, produced in *data_analysis_script.R*
+
 **Folder "figs"**: Figures. Includes figures created in *relative_abundance_occurrence_calculations.R* and *data_analysis_script.R*
 
 ## 4_other_outputs
